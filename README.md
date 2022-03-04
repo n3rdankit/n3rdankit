@@ -5,6 +5,6 @@
 - 👯 I’m looking to collaborate on YouTube
 - 🤔 I’m looking for help with Machine Learning
 - 💬 Ask me about any tech related stuff
-- 📫 How to reach me: LinkedIn - @itsankitsharma
+- 📫 How to reach me: [LinkedIn - @itsankitsharma](https://www.linkedin.com/in/itsankitsharma/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 12 hours listening songs everyday
