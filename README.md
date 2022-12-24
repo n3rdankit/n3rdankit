@@ -1,7 +1,7 @@
 ### Hello, I am Ankit Sharma 👋
 
 - 🔭 I’m currently working on Data Science Project
-- 🌱 I’m currently learning Python
+- 🌱 I’m good in Python Programming
 - 👯 I’m looking to collaborate on more Data Science projects
 - 🤔 I’m looking for help with Machine Learning
 - 💬 Ask me about any tech related stuff and Python programming
