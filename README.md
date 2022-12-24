@@ -1,12 +1,34 @@
-### Hello, I am Ankit Sharma 👋
+[![MasterHead](https://images.squarespace-cdn.com/content/v1/5feb53185d3dab691b47361b/1609930650139-9NRI63XUJ29Y7E9LEA9G/12eca-machine-learning.gif)](https://linkedin.com/in/itsankitsharma)
+<h1 align="center">Hi 👋, I'm Ankit Sharma</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
-- 🔭 I’m currently working on Data Science Project
-- 🌱 I’m good in Python Programming
-- 👯 I’m looking to collaborate on more Data Science projects
-- 🤔 I’m looking for help with Machine Learning
-- 💬 Ask me about any tech related stuff and Python programming
-- 📫 How to reach me: [LinkedIn - @itsankitsharma](https://www.linkedin.com/in/itsankitsharma/)
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I spend almost 12 hours listening songs along with coding everyday
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=n3rdankit&label=Profile%20views&color=0e75b6&style=flat" alt="n3rdankit" /> </p>
 
-<Img src="https://github-readme-stats.vercel.app/api?username=n3rdankit&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<p align="left"> <a href="https://twitter.com/conquerorsharma" target="blank"><img src="https://img.shields.io/twitter/follow/conquerorsharma?logo=twitter&style=for-the-badge" alt="conquerorsharma" /></a> </p>
+
+- 🔭 I’m currently working on **Data Science & Maching Learning**
+
+- 🌱 I’m currently learning **Natural Language Processing**
+
+- 💬 Ask me about **Python**
+
+- 📫 How to reach me **erankit.sharma95@gmail.com**
+
+- ⚡ Fun fact **I am Funny and like to play Football**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/conquerorsharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="conquerorsharma" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/itsankitsharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="itsankitsharma" height="30" width="40" /></a>
+<a href="https://instagram.com/n3rdankit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="n3rdankit" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=n3rdankit&show_icons=true&locale=en&layout=compact" alt="n3rdankit" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=n3rdankit&show_icons=true&locale=en" alt="n3rdankit" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=n3rdankit&" alt="n3rdankit" /></p>
