@@ -1,13 +1,12 @@
-[![MasterHead](https://images.squarespace-cdn.com/content/v1/5feb53185d3dab691b47361b/1609930650139-9NRI63XUJ29Y7E9LEA9G/12eca-machine-learning.gif)](https://linkedin.com/in/itsankitsharma)
+[![MasterHead](https://camo.githubusercontent.com/0850a9b90bf720b08cafe764aea52d8cf2cc7048d4f8080297e8988b76bb08b8/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966)](https://linkedin.com/in/itsankitsharma)
 <h1 align="center">Hi 👋, I'm Ankit Sharma</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+<h3 align="center">A passionate data science and machine learning enthusiast from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=n3rdankit&label=Profile%20views&color=0e75b6&style=flat" alt="n3rdankit" /> </p>
 
 <p align="left"> <a href="https://twitter.com/conquerorsharma" target="blank"><img src="https://img.shields.io/twitter/follow/conquerorsharma?logo=twitter&style=for-the-badge" alt="conquerorsharma" /></a> </p>
 
-- 🔭 I’m currently working on **Data Science & Maching Learning**
+- 🔭 I’m currently working on **Data Science**
 
 - 🌱 I’m currently learning **Natural Language Processing**
 
@@ -16,6 +15,10 @@
 - 📫 How to reach me **erankit.sharma95@gmail.com**
 
 - ⚡ Fun fact **I am Funny and like to play Football**
+
+<img align="center" alt="Coding" width="800" src="https://code.org/images/ai/ailab.gif">
+<img align="left" alt="Coding" width="350" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+<img align="center" alt="Coding" width="450" src="https://media0.giphy.com/media/iPj5oRtJzQGxwzuCKV/giphy.gif?cid=ecf05e47oy9drir5r424s7vyaiubu04lm4pyiqsdfa6x1go7&rid=giphy.gif&ct=g">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
